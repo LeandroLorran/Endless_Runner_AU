@@ -1,0 +1,8125 @@
+fileFormatVersion: 2
+guid: 2d79d07fdfb40394e8259c0a305ba2c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 109013552707271033
+    second: Backdrop_0
+  - first:
+      213: -8458602251002848920
+    second: Backdrop_1
+  - first:
+      213: -5050149929292006811
+    second: Backdrop_2
+  - first:
+      213: 4692383030383928659
+    second: Backdrop_3
+  - first:
+      213: 1892394899378414040
+    second: Backdrop_4
+  - first:
+      213: 3643742213060499117
+    second: Backdrop_5
+  - first:
+      213: -5094014404152002270
+    second: Backdrop_6
+  - first:
+      213: -3900774752527874631
+    second: Backdrop_7
+  - first:
+      213: 4864875532277162091
+    second: Backdrop_8
+  - first:
+      213: 1639213864526133627
+    second: Backdrop_9
+  - first:
+      213: 1916737315987648198
+    second: Backdrop_10
+  - first:
+      213: 8991812078751396158
+    second: Backdrop_11
+  - first:
+      213: -3875733844741945771
+    second: Backdrop_12
+  - first:
+      213: -213047741409330547
+    second: Backdrop_13
+  - first:
+      213: 2107103118745646978
+    second: Backdrop_14
+  - first:
+      213: 7472071842337589565
+    second: Backdrop_15
+  - first:
+      213: -3024304149516079712
+    second: Backdrop_16
+  - first:
+      213: -3572729925657049204
+    second: Backdrop_17
+  - first:
+      213: 4412410475641903121
+    second: Backdrop_18
+  - first:
+      213: -6958561196344318733
+    second: Backdrop_19
+  - first:
+      213: -6525699971582583191
+    second: Backdrop_20
+  - first:
+      213: -350830457320684974
+    second: Backdrop_21
+  - first:
+      213: 6938315543025377630
+    second: Backdrop_22
+  - first:
+      213: 3433206843324774764
+    second: Backdrop_23
+  - first:
+      213: -3492385177380543125
+    second: Backdrop_24
+  - first:
+      213: 6934546050459774118
+    second: Backdrop_25
+  - first:
+      213: -6076106701842204255
+    second: Backdrop_26
+  - first:
+      213: -1739063714022135181
+    second: Backdrop_27
+  - first:
+      213: -7447010013426327591
+    second: Backdrop_28
+  - first:
+      213: 336093853700295493
+    second: Backdrop_29
+  - first:
+      213: -3160028294288303206
+    second: Backdrop_30
+  - first:
+      213: -1347374153446286153
+    second: Backdrop_31
+  - first:
+      213: -4668243918957938964
+    second: Backdrop_32
+  - first:
+      213: -7735435480825825913
+    second: Backdrop_33
+  - first:
+      213: 2327839438897191595
+    second: Backdrop_34
+  - first:
+      213: 5792680381382219101
+    second: Backdrop_35
+  - first:
+      213: -7049214503165196941
+    second: Backdrop_36
+  - first:
+      213: -2328682373649595313
+    second: Backdrop_37
+  - first:
+      213: -5060548223171349138
+    second: Backdrop_38
+  - first:
+      213: 8459920811092318316
+    second: Backdrop_39
+  - first:
+      213: 2994373572369785559
+    second: Backdrop_40
+  - first:
+      213: -5346559799502693483
+    second: Backdrop_41
+  - first:
+      213: -5638020802216335878
+    second: Backdrop_42
+  - first:
+      213: 2438926741053190643
+    second: Backdrop_43
+  - first:
+      213: 7925376717207954091
+    second: Backdrop_44
+  - first:
+      213: -9146425365331738098
+    second: Backdrop_45
+  - first:
+      213: -7681601623303331413
+    second: Backdrop_46
+  - first:
+      213: -9093820194493197951
+    second: Backdrop_47
+  - first:
+      213: -5753999999033256423
+    second: Backdrop_48
+  - first:
+      213: -4550323976041253359
+    second: Backdrop_49
+  - first:
+      213: -8685653905558055781
+    second: Backdrop_50
+  - first:
+      213: 2711462331185563152
+    second: Backdrop_51
+  - first:
+      213: -406632984485474665
+    second: Backdrop_52
+  - first:
+      213: 5076237179363889105
+    second: Backdrop_53
+  - first:
+      213: -8343456930639890012
+    second: Backdrop_54
+  - first:
+      213: -7924335497237039699
+    second: Backdrop_55
+  - first:
+      213: 3493217861883862544
+    second: Backdrop_56
+  - first:
+      213: -1618219931018408547
+    second: Backdrop_57
+  - first:
+      213: 3034806471097228966
+    second: Backdrop_58
+  - first:
+      213: -2309411315570249599
+    second: Backdrop_59
+  - first:
+      213: -4264942035218237960
+    second: Backdrop_60
+  - first:
+      213: -5419364213779675790
+    second: Backdrop_61
+  - first:
+      213: -350508901656819614
+    second: Backdrop_62
+  - first:
+      213: 3212056903276440397
+    second: Backdrop_63
+  - first:
+      213: -4464214374864577757
+    second: Backdrop_64
+  - first:
+      213: -2526275274448266423
+    second: Backdrop_65
+  - first:
+      213: -138537727732279875
+    second: Backdrop_66
+  - first:
+      213: 2689093870036674068
+    second: Backdrop_67
+  - first:
+      213: -8483779959859551584
+    second: Backdrop_68
+  - first:
+      213: 835600036377467418
+    second: Backdrop_69
+  - first:
+      213: -8101135842239949621
+    second: Backdrop_70
+  - first:
+      213: 3118122664242479960
+    second: Backdrop_71
+  - first:
+      213: 9001742128257503010
+    second: Backdrop_72
+  - first:
+      213: 2063318535460476077
+    second: Backdrop_73
+  - first:
+      213: 6695433562385485964
+    second: Backdrop_74
+  - first:
+      213: -416935460291026348
+    second: Backdrop_75
+  - first:
+      213: -1158382848614193731
+    second: Backdrop_76
+  - first:
+      213: -2139099702672468983
+    second: Backdrop_77
+  - first:
+      213: -4228311018678272066
+    second: Backdrop_78
+  - first:
+      213: -3798677726406080035
+    second: Backdrop_79
+  - first:
+      213: -8086152762603091240
+    second: Backdrop_80
+  - first:
+      213: -8886676202292130484
+    second: Backdrop_81
+  - first:
+      213: -6806686048476154619
+    second: Backdrop_82
+  - first:
+      213: -8472063432179881733
+    second: Backdrop_83
+  - first:
+      213: -2296822357247761057
+    second: Backdrop_84
+  - first:
+      213: 8695260424497202139
+    second: Backdrop_85
+  - first:
+      213: -8442603894163910271
+    second: Backdrop_86
+  - first:
+      213: 343882950457342819
+    second: Backdrop_87
+  - first:
+      213: -4377163939153504156
+    second: Backdrop_88
+  - first:
+      213: 8508745178023539871
+    second: Backdrop_89
+  - first:
+      213: -972172413571539548
+    second: Backdrop_90
+  - first:
+      213: 5655535590259859922
+    second: Backdrop_91
+  - first:
+      213: -4245552730351719561
+    second: Backdrop_92
+  - first:
+      213: -8817548217346249502
+    second: Backdrop_93
+  - first:
+      213: 3094233413311450194
+    second: Backdrop_94
+  - first:
+      213: 6133973178012080991
+    second: Backdrop_95
+  - first:
+      213: -8510499548903957832
+    second: Backdrop_96
+  - first:
+      213: 5681405138317222663
+    second: Backdrop_97
+  - first:
+      213: 655157750376884515
+    second: Backdrop_98
+  - first:
+      213: -7572098883415591516
+    second: Backdrop_99
+  - first:
+      213: -495667760175101624
+    second: Backdrop_100
+  - first:
+      213: -5561507797746498762
+    second: Backdrop_101
+  - first:
+      213: -7438900183153506511
+    second: Backdrop_102
+  - first:
+      213: 6779044811634462699
+    second: Backdrop_103
+  - first:
+      213: 1315190617736454844
+    second: Backdrop_104
+  - first:
+      213: -8505154214444931709
+    second: Backdrop_105
+  - first:
+      213: 2490259481572382102
+    second: Backdrop_106
+  - first:
+      213: -9207571372272903903
+    second: Backdrop_107
+  - first:
+      213: 3399189313149177178
+    second: Backdrop_108
+  - first:
+      213: -8089197994641379587
+    second: Backdrop_109
+  - first:
+      213: -6455804284945063760
+    second: Backdrop_110
+  - first:
+      213: -6788560323765975899
+    second: Backdrop_111
+  - first:
+      213: 3180432081237301093
+    second: Backdrop_112
+  - first:
+      213: -8239030731196425260
+    second: Backdrop_113
+  - first:
+      213: 4531380853571075227
+    second: Backdrop_114
+  - first:
+      213: 2082944974163438141
+    second: Backdrop_115
+  - first:
+      213: -7656384581122402172
+    second: Backdrop_116
+  - first:
+      213: 6537738796877757334
+    second: Backdrop_117
+  - first:
+      213: 2347823613968937664
+    second: Backdrop_118
+  - first:
+      213: -4145251674205490913
+    second: Backdrop_119
+  - first:
+      213: -5973311443327317075
+    second: Backdrop_120
+  - first:
+      213: 8501138431392369816
+    second: Backdrop_121
+  - first:
+      213: -9006928832245350278
+    second: Backdrop_122
+  - first:
+      213: -7878382783830688743
+    second: Backdrop_123
+  - first:
+      213: -3890442927322223181
+    second: Backdrop_124
+  - first:
+      213: -4182943677015832790
+    second: Backdrop_125
+  - first:
+      213: -6702800625763000910
+    second: Backdrop_126
+  - first:
+      213: 7698899845359791536
+    second: Backdrop_127
+  - first:
+      213: -4672972888468823966
+    second: Backdrop_128
+  - first:
+      213: 7492447239184247096
+    second: Backdrop_129
+  - first:
+      213: -2226682292777873243
+    second: Backdrop_130
+  - first:
+      213: -1281039043185188741
+    second: Backdrop_131
+  - first:
+      213: -5429351730343612793
+    second: Backdrop_132
+  - first:
+      213: -6747365217499467100
+    second: Backdrop_133
+  - first:
+      213: 5759089316410043420
+    second: Backdrop_134
+  - first:
+      213: -6479870330608810972
+    second: Backdrop_135
+  - first:
+      213: -7529487824408757823
+    second: Backdrop_136
+  - first:
+      213: -2533848985484609744
+    second: Backdrop_137
+  - first:
+      213: 4809079457277277855
+    second: Backdrop_138
+  - first:
+      213: 1284304697289333057
+    second: Backdrop_139
+  - first:
+      213: -6189246291534653708
+    second: Backdrop_140
+  - first:
+      213: -767391245413558115
+    second: Backdrop_141
+  - first:
+      213: 8112503522702709507
+    second: Backdrop_142
+  - first:
+      213: 3896248229024878781
+    second: Backdrop_143
+  - first:
+      213: 8865625224732301856
+    second: Backdrop_144
+  - first:
+      213: -6810479000176288365
+    second: Backdrop_145
+  - first:
+      213: -8070526760077897973
+    second: Backdrop_146
+  - first:
+      213: -4798038354940703541
+    second: Backdrop_147
+  - first:
+      213: 572214946328778545
+    second: Backdrop_148
+  - first:
+      213: 1365287116788154096
+    second: Backdrop_149
+  - first:
+      213: 36384090436377748
+    second: Backdrop_150
+  - first:
+      213: -7100419448275945532
+    second: Backdrop_151
+  - first:
+      213: 355592184573173311
+    second: Backdrop_152
+  - first:
+      213: 2980182617374163536
+    second: Backdrop_153
+  - first:
+      213: -6520147378920953623
+    second: Backdrop_154
+  - first:
+      213: -2874185345179665510
+    second: Backdrop_155
+  - first:
+      213: -3626817965116149380
+    second: Backdrop_156
+  - first:
+      213: -2006253960680972660
+    second: Backdrop_157
+  - first:
+      213: 6914777216530618153
+    second: Backdrop_158
+  - first:
+      213: -4169830959277973533
+    second: Backdrop_159
+  - first:
+      213: -971940088129308544
+    second: Backdrop_160
+  - first:
+      213: -5593084450193737174
+    second: Backdrop_161
+  - first:
+      213: -634938568732039981
+    second: Backdrop_162
+  - first:
+      213: 2211969729992712183
+    second: Backdrop_163
+  - first:
+      213: 4809010039898936434
+    second: Backdrop_164
+  - first:
+      213: 5504937570428547618
+    second: Backdrop_165
+  - first:
+      213: 6318394640187751555
+    second: Backdrop_166
+  - first:
+      213: 6690454915785810367
+    second: Backdrop_167
+  - first:
+      213: 6378995093507504736
+    second: Backdrop_168
+  - first:
+      213: -5413204345744787153
+    second: Backdrop_169
+  - first:
+      213: 2158963428108021113
+    second: Backdrop_170
+  - first:
+      213: 5447768247244576260
+    second: Backdrop_171
+  - first:
+      213: 3351328204129307014
+    second: Backdrop_172
+  - first:
+      213: 3170660625521899390
+    second: Backdrop_173
+  - first:
+      213: -4627085977130854290
+    second: Backdrop_174
+  - first:
+      213: -4692769389978700560
+    second: Backdrop_175
+  - first:
+      213: -4895208481041147178
+    second: Backdrop_176
+  - first:
+      213: -7441371983090583151
+    second: Backdrop_177
+  - first:
+      213: 5586051995687988216
+    second: Backdrop_178
+  - first:
+      213: -1257674681311948588
+    second: Backdrop_179
+  - first:
+      213: -1591801249205712111
+    second: Backdrop_180
+  - first:
+      213: -4645914708640311416
+    second: Backdrop_181
+  - first:
+      213: -5956207620107938237
+    second: Backdrop_182
+  - first:
+      213: -3209860191718351179
+    second: Backdrop_183
+  - first:
+      213: 3191338901252077448
+    second: Backdrop_184
+  - first:
+      213: -909528111577325382
+    second: Backdrop_185
+  - first:
+      213: -4223983399344013120
+    second: Backdrop_186
+  - first:
+      213: -1755058022857652010
+    second: Backdrop_187
+  - first:
+      213: -2754608220530013406
+    second: Backdrop_188
+  - first:
+      213: 4392956321856372082
+    second: Backdrop_189
+  - first:
+      213: -8378920998671046790
+    second: Backdrop_190
+  - first:
+      213: 2437057101180621590
+    second: Backdrop_191
+  - first:
+      213: -8539318715533848744
+    second: Backdrop_192
+  - first:
+      213: 5310198351824675080
+    second: Backdrop_193
+  - first:
+      213: -6235033825527858976
+    second: Backdrop_194
+  - first:
+      213: -6572454371859071246
+    second: Backdrop_195
+  - first:
+      213: 7305090954593578418
+    second: Backdrop_196
+  - first:
+      213: -1370727329928829433
+    second: Backdrop_197
+  - first:
+      213: 544693415671848296
+    second: Backdrop_198
+  - first:
+      213: 2849486200920773619
+    second: Backdrop_199
+  - first:
+      213: -9133086306116791572
+    second: Backdrop_200
+  - first:
+      213: 8461561442205437851
+    second: Backdrop_201
+  - first:
+      213: 1369707619647992109
+    second: Backdrop_202
+  - first:
+      213: -4913075435698452253
+    second: Backdrop_203
+  - first:
+      213: -4581378856441904957
+    second: Backdrop_204
+  - first:
+      213: -8113683060810421528
+    second: Backdrop_205
+  - first:
+      213: -2379541752413288829
+    second: Backdrop_206
+  - first:
+      213: 7237949492267514844
+    second: Backdrop_207
+  - first:
+      213: -126344608766619647
+    second: Backdrop_208
+  - first:
+      213: -6278172455444142512
+    second: Backdrop_209
+  - first:
+      213: -1552890695434602301
+    second: Backdrop_210
+  - first:
+      213: 2202721900462823201
+    second: Backdrop_211
+  - first:
+      213: -6191553155801079113
+    second: Backdrop_212
+  - first:
+      213: -622861645307727782
+    second: Backdrop_213
+  - first:
+      213: 8987414243287318104
+    second: Backdrop_214
+  - first:
+      213: -6827713264297120704
+    second: Backdrop_215
+  - first:
+      213: -2866680161010008497
+    second: Backdrop_216
+  - first:
+      213: 8733394733033498810
+    second: Backdrop_217
+  - first:
+      213: -873020340350360842
+    second: Backdrop_218
+  - first:
+      213: 5988244805657545305
+    second: Backdrop_219
+  - first:
+      213: -1305272347590058053
+    second: Backdrop_220
+  - first:
+      213: -347877687084200452
+    second: Backdrop_221
+  - first:
+      213: 415432956275250535
+    second: Backdrop_222
+  - first:
+      213: -4127387479612589682
+    second: Backdrop_223
+  - first:
+      213: 1324703624306005360
+    second: Backdrop_224
+  - first:
+      213: 4441729866157271530
+    second: Backdrop_225
+  - first:
+      213: 5250879448172724316
+    second: Backdrop_226
+  - first:
+      213: 2769453355498675508
+    second: Backdrop_227
+  - first:
+      213: -320716274004344172
+    second: Backdrop_228
+  - first:
+      213: 6270965552730715470
+    second: Backdrop_229
+  - first:
+      213: -5550195419455888318
+    second: Backdrop_230
+  - first:
+      213: 4577607155420455914
+    second: Backdrop_231
+  - first:
+      213: -4387449031558565950
+    second: Backdrop_232
+  - first:
+      213: -792043968090526254
+    second: Backdrop_233
+  - first:
+      213: -4977619351082901450
+    second: Backdrop_234
+  - first:
+      213: 7999970514777703225
+    second: Backdrop_235
+  - first:
+      213: -2413805067205690207
+    second: Backdrop_236
+  - first:
+      213: -139368539418091109
+    second: Backdrop_237
+  - first:
+      213: 7131945225860820781
+    second: Backdrop_238
+  - first:
+      213: 2593270523102502784
+    second: Backdrop_239
+  - first:
+      213: 395251115940370337
+    second: Backdrop_240
+  - first:
+      213: 2758597333562879618
+    second: Backdrop_241
+  - first:
+      213: 161252923041039534
+    second: Backdrop_242
+  - first:
+      213: 7858632309246076569
+    second: Backdrop_243
+  - first:
+      213: 5222640666370024320
+    second: Backdrop_244
+  - first:
+      213: 8085992383766912710
+    second: Backdrop_245
+  - first:
+      213: 8699523410610788275
+    second: Backdrop_246
+  - first:
+      213: -5263631003946763079
+    second: Backdrop_247
+  - first:
+      213: -8178342303176093315
+    second: Backdrop_248
+  - first:
+      213: 3788397197797192926
+    second: Backdrop_249
+  - first:
+      213: -6867614906747154319
+    second: Backdrop_250
+  - first:
+      213: -7879166542471935157
+    second: Backdrop_251
+  - first:
+      213: -6312262714469012845
+    second: Backdrop_252
+  - first:
+      213: -6351111153757432546
+    second: Backdrop_253
+  - first:
+      213: -6810174701752529925
+    second: Backdrop_254
+  - first:
+      213: -1062471592113538271
+    second: Backdrop_255
+  - first:
+      213: 7723298807857541290
+    second: Backdrop_256
+  - first:
+      213: 6197961807820123095
+    second: Backdrop_257
+  - first:
+      213: 8938942621918831643
+    second: Backdrop_258
+  - first:
+      213: 4681800721721417884
+    second: Backdrop_259
+  - first:
+      213: 6676477833045809946
+    second: Backdrop_260
+  - first:
+      213: 245480428805143103
+    second: Backdrop_261
+  - first:
+      213: -9028433741376283677
+    second: Backdrop_262
+  - first:
+      213: -843451495878363378
+    second: Backdrop_263
+  - first:
+      213: -4939969693467332803
+    second: Backdrop_264
+  - first:
+      213: -1841021303828901571
+    second: Backdrop_265
+  - first:
+      213: 4721591752971478454
+    second: Backdrop_266
+  - first:
+      213: -7650584139520017052
+    second: Backdrop_267
+  - first:
+      213: 4366378808784272938
+    second: Backdrop_268
+  - first:
+      213: -522070527832173867
+    second: Backdrop_269
+  - first:
+      213: -7406667013681196130
+    second: Backdrop_270
+  - first:
+      213: 5736965022212394332
+    second: Backdrop_271
+  - first:
+      213: -6978553572226532417
+    second: Backdrop_272
+  - first:
+      213: -6113658923297913508
+    second: Backdrop_273
+  - first:
+      213: 5579213500911308996
+    second: Backdrop_274
+  - first:
+      213: 4459442882187249725
+    second: Backdrop_275
+  - first:
+      213: -5715785325974631044
+    second: Backdrop_276
+  - first:
+      213: 7612605431259569865
+    second: Backdrop_277
+  - first:
+      213: -4294794466866825364
+    second: Backdrop_278
+  - first:
+      213: 1252931473145168521
+    second: Backdrop_279
+  - first:
+      213: 398026341366506233
+    second: Backdrop_280
+  - first:
+      213: -4001012501248258220
+    second: Backdrop_281
+  - first:
+      213: 1665855537104589574
+    second: Backdrop_282
+  - first:
+      213: 6302679509168699579
+    second: Backdrop_283
+  - first:
+      213: -4665527629031410935
+    second: Backdrop_284
+  - first:
+      213: 3486240470718277342
+    second: Backdrop_285
+  - first:
+      213: -6206798899505424133
+    second: Backdrop_286
+  - first:
+      213: 1538856545087315399
+    second: Backdrop_287
+  - first:
+      213: 6940498208963665029
+    second: Backdrop_288
+  - first:
+      213: 8161444264890252249
+    second: Backdrop_289
+  - first:
+      213: 8367269850537351498
+    second: Backdrop_290
+  - first:
+      213: -2051681051537667552
+    second: Backdrop_291
+  - first:
+      213: 2569310625249143615
+    second: Backdrop_292
+  - first:
+      213: -700418650993786600
+    second: Backdrop_293
+  - first:
+      213: 6422888305773902541
+    second: Backdrop_294
+  - first:
+      213: 8581702623505092771
+    second: Backdrop_295
+  - first:
+      213: -269127374488212789
+    second: Backdrop_296
+  - first:
+      213: -5170837459613689798
+    second: Backdrop_297
+  - first:
+      213: -661995022360956829
+    second: Backdrop_298
+  - first:
+      213: -1266241231775258119
+    second: Backdrop_299
+  - first:
+      213: -7342587934284935581
+    second: Backdrop_300
+  - first:
+      213: -8932133979862648030
+    second: Backdrop_301
+  - first:
+      213: 4781399806203814347
+    second: Backdrop_302
+  - first:
+      213: 3047248577993698537
+    second: Backdrop_303
+  - first:
+      213: -117287903947108934
+    second: Backdrop_304
+  - first:
+      213: -5609153038755029669
+    second: Backdrop_305
+  - first:
+      213: 5332343545459301383
+    second: Backdrop_306
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backdrop_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 492
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f1d4af3b438100800000000000000
+      internalID: 109013552707271033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 493
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d7ac71120d9a80800000000000000
+      internalID: -8458602251002848920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 492
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af51a65634ae9b0800000000000000
+      internalID: -5050149929292006811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 501
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355ea1c3181be1140800000000000000
+      internalID: 4692383030383928659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_4
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 497
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d126387223234a10800000000000000
+      internalID: 1892394899378414040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 487
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61196cc3c219230800000000000000
+      internalID: 3643742213060499117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_6
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229fbcf73ec6e49b0800000000000000
+      internalID: -5094014404152002270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b583ce970aadd9c0800000000000000
+      internalID: -3900774752527874631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 491
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60aed97582838340800000000000000
+      internalID: 4864875532277162091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_9
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 490
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79b9f92358afb610800000000000000
+      internalID: 1639213864526133627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_10
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 486
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceed2ffe6e999a10800000000000000
+      internalID: 1916737315987648198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313b09e17559cc70800000000000000
+      internalID: 8991812078751396158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 480
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556823c4a90a63ac0800000000000000
+      internalID: -3875733844741945771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 478
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af81d353a1b0df0800000000000000
+      internalID: -213047741409330547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 484
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287b3f16f1fed3d10800000000000000
+      internalID: 2107103118745646978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 482
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390bba70c122b760800000000000000
+      internalID: 7472071842337589565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 458
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adaa5346638706d0800000000000000
+      internalID: -3024304149516079712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_17
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 477
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87cdcecf0d1b6ec0800000000000000
+      internalID: -3572729925657049204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_18
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 477
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11819db13f70c3d30800000000000000
+      internalID: 4412410475641903121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 476
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46410c5793e6f90800000000000000
+      internalID: -6958561196344318733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 477
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e1b03537e0075a0800000000000000
+      internalID: -6525699971582583191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 470
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252430fce89912bf0800000000000000
+      internalID: -350830457320684974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_22
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 437
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516991c939d94060800000000000000
+      internalID: 6938315543025377630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 475
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6930d02f6335af20800000000000000
+      internalID: 3433206843324774764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_24
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 469
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a4634f2e888fc0800000000000000
+      internalID: -3492385177380543125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_25
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2e3064e47c3060800000000000000
+      internalID: 6934546050459774118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 462
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93353b5255daba0800000000000000
+      internalID: -6076106701842204255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_27
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 462
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a60fb14ca9dd7e0800000000000000
+      internalID: -1739063714022135181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_28
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 463
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df52f649d7e6a890800000000000000
+      internalID: -7447010013426327591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8ff8449b0aa400800000000000000
+      internalID: 336093853700295493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b13c642035524d0800000000000000
+      internalID: -3160028294288303206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc9a4c985a2d4de0800000000000000
+      internalID: -1347374153446286153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 452
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce672ad93e0173fb0800000000000000
+      internalID: -4668243918957938964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_33
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7857c6e0a6636a490800000000000000
+      internalID: -7735435480825825913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 449
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9c91e2a52e4020800000000000000
+      internalID: 2327839438897191595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_35
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 447
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5559adad1cb36050800000000000000
+      internalID: 5792680381382219101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 443
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758e49f1c82c2e90800000000000000
+      internalID: -7049214503165196941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_37
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 445
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4407e318bbdeafd0800000000000000
+      internalID: -2328682373649595313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_38
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 446
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e653325f33255c9b0800000000000000
+      internalID: -5060548223171349138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_39
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 446
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689715b72da76570800000000000000
+      internalID: 8459920811092318316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 434
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22be136e62e8920800000000000000
+      internalID: 2994373572369785559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_41
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 439
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b124c80343dc5b0800000000000000
+      internalID: -5346559799502693483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 442
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e1afa3f9b1c1b0800000000000000
+      internalID: -5638020802216335878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_43
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13da1f2fec8d120800000000000000
+      internalID: 2438926741053190643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_44
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e45442289cfd60800000000000000
+      internalID: 7925376717207954091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_45
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0287ce079e511180800000000000000
+      internalID: -9146425365331738098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_46
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 421
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e0f0c508756590800000000000000
+      internalID: -7681601623303331413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_47
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 428
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18195f7d6b24cc180800000000000000
+      internalID: -9093820194493197951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_48
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165604ac7fa520b0800000000000000
+      internalID: -5753999999033256423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 417
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1163e13d3700ad0c0800000000000000
+      internalID: -4550323976041253359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_50
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945a3d9acb567780800000000000000
+      internalID: -8685653905558055781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0160b20df9c01a520800000000000000
+      internalID: 2711462331185563152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_52
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 420
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e49cd74795b5af0800000000000000
+      internalID: -406632984485474665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_53
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 419
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df8d9fc1da627640800000000000000
+      internalID: 5076237179363889105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_54
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 411
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9307a8026163c80800000000000000
+      internalID: -8343456930639890012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_55
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 413
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5fa26a9da170290800000000000000
+      internalID: -7924335497237039699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_56
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e13a433276a7030800000000000000
+      internalID: 3493217861883862544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_57
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dc033eb8dea89e0800000000000000
+      internalID: -1618219931018408547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_58
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae9ec7086ccd1a20800000000000000
+      internalID: 3034806471097228966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_59
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 410
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180fa2fe4a253ffd0800000000000000
+      internalID: -2309411315570249599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_60
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 402
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57f2bc0d1efc4c0800000000000000
+      internalID: -4264942035218237960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_61
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 402
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275c239e5fc8ac4b0800000000000000
+      internalID: -5419364213779675790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_62
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 407
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680222d20eb22bf0800000000000000
+      internalID: -350508901656819614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_63
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b222e3cb4839c20800000000000000
+      internalID: 3212056903276440397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_64
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 397
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1101bdaceb02c0800000000000000
+      internalID: -4464214374864577757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_65
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 398
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b98adc50ed0fcd0800000000000000
+      internalID: -2526275274448266423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 387
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5178eaba0d31ef0800000000000000
+      internalID: -138537727732279875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_67
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 386
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416673b90a4915520800000000000000
+      internalID: 2689093870036674068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_68
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 385
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26ef3531f834a80800000000000000
+      internalID: -8483779959859551584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a159e4ec5a89b00800000000000000
+      internalID: 835600036377467418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45a168fdbf29f80800000000000000
+      internalID: -8101135842239949621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 374
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538448ea0cc54b20800000000000000
+      internalID: 3118122664242479960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_72
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 351
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f057ab5cc9cec70800000000000000
+      internalID: 9001742128257503010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d99ca64162ac10800000000000000
+      internalID: 2063318535460476077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 318
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80173fd955faec50800000000000000
+      internalID: 6695433562385485964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_75
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 355
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e61b686fb63af0800000000000000
+      internalID: -416935460291026348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_76
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 314
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db52272cfe89cefe0800000000000000
+      internalID: -1158382848614193731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_77
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 347
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904501367246052e0800000000000000
+      internalID: -2139099702672468983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_78
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfbfc3f7850255c0800000000000000
+      internalID: -4228311018678272066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_79
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 367
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9806debb2684bc0800000000000000
+      internalID: -3798677726406080035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_80
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dacf7997e638cf80800000000000000
+      internalID: -8086152762603091240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_81
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 349
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc570e31f2ca480800000000000000
+      internalID: -8886676202292130484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b8fe2a1bc981a0800000000000000
+      internalID: -6806686048476154619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86752023f2d6a80800000000000000
+      internalID: -8472063432179881733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_84
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5562143c3c0020e0800000000000000
+      internalID: -2296822357247761057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_85
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd30baf5945cba870800000000000000
+      internalID: 8695260424497202139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_86
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 309
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d7053d78d5da80800000000000000
+      internalID: -8442603894163910271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_87
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 307
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb252b8b7b5c400800000000000000
+      internalID: 343882950457342819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_88
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 316
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681b1ba6903143c0800000000000000
+      internalID: -4377163939153504156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 315
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94396c78a2251670800000000000000
+      internalID: 8508745178023539871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_90
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 282
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad52a437562282f0800000000000000
+      internalID: -972172413571539548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_91
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 346
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1a400b7af7c7e40800000000000000
+      internalID: 5655535590259859922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_92
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b22302944c415c0800000000000000
+      internalID: -4245552730351719561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_93
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eca23b1d96c1a580800000000000000
+      internalID: -8817548217346249502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_94
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 308
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc29c35ece0fa20800000000000000
+      internalID: 3094233413311450194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_95
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1f213b10402550800000000000000
+      internalID: 6133973178012080991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_96
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 315
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba157630c1a4e980800000000000000
+      internalID: -8510499548903957832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_97
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7032a763fd768de40800000000000000
+      internalID: 5681405138317222663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_98
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ee07b086971900800000000000000
+      internalID: 655157750376884515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_99
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 332
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b1e92f208ae690800000000000000
+      internalID: -7572098883415591516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_100
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849462c5cc80f19f0800000000000000
+      internalID: -495667760175101624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_101
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 304
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63341c3cf1e81d2b0800000000000000
+      internalID: -5561507797746498762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370c8742b7b3c890800000000000000
+      internalID: -7438900183153506511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_103
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 313
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4de9d651041e50800000000000000
+      internalID: 6779044811634462699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_104
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 315
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ab1e06ee704210800000000000000
+      internalID: 1315190617736454844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_105
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 318
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e710ed4f97f980800000000000000
+      internalID: -8505154214444931709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_106
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6959ba5fdcd2f8220800000000000000
+      internalID: 2490259481572382102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_107
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1291e97ee92283080800000000000000
+      internalID: -9207571372272903903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_108
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 324
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8f8eaba85c2f20800000000000000
+      internalID: 3399189313149177178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe299348456dbf80800000000000000
+      internalID: -8089197994641379587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_110
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a76805306866a0800000000000000
+      internalID: -6455804284945063760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a44e955a503ac1a0800000000000000
+      internalID: -6788560323765975899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 290
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d762902a232c20800000000000000
+      internalID: 3180432081237301093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_113
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9285c33519ad80800000000000000
+      internalID: -8239030731196425260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_114
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 307
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c3c17c0e2b2ee30800000000000000
+      internalID: 4531380853571075227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_115
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a62b70b6b18ec10800000000000000
+      internalID: 2082944974163438141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_116
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488db6ae9ce0fb590800000000000000
+      internalID: -7656384581122402172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_117
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 308
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b303e1cc6baba50800000000000000
+      internalID: 6537738796877757334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_118
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 308
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c274e93325259020800000000000000
+      internalID: 2347823613968937664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_119
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f117366909b1976c0800000000000000
+      internalID: -4145251674205490913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_120
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 307
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab03b7e3e88a1da0800000000000000
+      internalID: -5973311443327317075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_121
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 270
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c4095cc5c1af570800000000000000
+      internalID: 8501138431392369816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_122
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cac4a2f5f00380800000000000000
+      internalID: -9006928832245350278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_123
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cf73d799c5aa290800000000000000
+      internalID: -7878382783830688743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_124
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd270225ce520ac0800000000000000
+      internalID: -3890442927322223181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_125
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27410053e233f5c0800000000000000
+      internalID: -4182943677015832790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_126
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd5125085edaf2a0800000000000000
+      internalID: -6702800625763000910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_127
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 309
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdeafb6e9cf7da60800000000000000
+      internalID: 7698899845359791536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e8c99ae3462fb0800000000000000
+      internalID: -4672972888468823966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839eeed31158af760800000000000000
+      internalID: 7492447239184247096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_130
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0925f804c3911e0800000000000000
+      internalID: -2226682292777873243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_131
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 270
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706a8707c5d83ee0800000000000000
+      internalID: -1281039043185188741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_132
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e67300e5117a4b0800000000000000
+      internalID: -5429351730343612793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_133
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 245
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a23e11751b8c52a0800000000000000
+      internalID: -6747365217499467100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_134
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 254
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2e5668356cef40800000000000000
+      internalID: 5759089316410043420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_135
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 265
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42408712440e216a0800000000000000
+      internalID: -6479870330608810972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_136
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 288
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9bc7577b2e18790800000000000000
+      internalID: -7529487824408757823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_137
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 285
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b4b9c5c5f5dcd0800000000000000
+      internalID: -2533848985484609744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_138
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f3ab69484db240800000000000000
+      internalID: 4809079457277277855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_139
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 277
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149db415154c2d110800000000000000
+      internalID: 1284304697289333057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_140
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 282
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65ca53a416b1aa0800000000000000
+      internalID: -6189246291534653708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 277
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9851656abda955f0800000000000000
+      internalID: -767391245413558115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303dcc5d8f6659070800000000000000
+      internalID: 8112503522702709507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d5cffe11421630800000000000000
+      internalID: 3896248229024878781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_144
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 275
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a59e77b27090b70800000000000000
+      internalID: 8865625224732301856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_145
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 267
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1c3cce615c71a0800000000000000
+      internalID: -6810479000176288365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_146
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc543dbaabfff80800000000000000
+      internalID: -8070526760077897973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_147
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4f0b8981f96db0800000000000000
+      internalID: -4798038354940703541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_148
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1379813467ae0f700800000000000000
+      internalID: 572214946328778545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_149
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 267
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe339c266972f210800000000000000
+      internalID: 1365287116788154096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_150
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 275
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c9fe13323418000800000000000000
+      internalID: 36384090436377748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_151
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 276
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7bc35a12e367d90800000000000000
+      internalID: -7100419448275945532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_152
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e936635315fe400800000000000000
+      internalID: 355592184573173311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_153
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 273
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05281620d4cbb5920800000000000000
+      internalID: 2980182617374163536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_154
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 271
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e83c0188c385a0800000000000000
+      internalID: -6520147378920953623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_155
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 235
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bbee918a7dc18d0800000000000000
+      internalID: -2874185345179665510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_156
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 271
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c713f34c644faadc0800000000000000
+      internalID: -3626817965116149380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_157
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 248
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed36007aa5824e0800000000000000
+      internalID: -2006253960680972660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_158
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927954c0e3936ff50800000000000000
+      internalID: 6914777216530618153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_159
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5fc2d5d8c126c0800000000000000
+      internalID: -4169830959277973533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_160
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0883710b3a9f282f0800000000000000
+      internalID: -971940088129308544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_161
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 264
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af073735f5162b0800000000000000
+      internalID: -5593084450193737174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_162
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 245
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4288c5cbe3037f0800000000000000
+      internalID: -634938568732039981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_163
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd12affbe72be10800000000000000
+      internalID: 2211969729992712183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_164
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 221
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274967de6290db240800000000000000
+      internalID: 4809010039898936434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_165
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 251
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222781ccd87756c40800000000000000
+      internalID: 5504937570428547618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_166
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7f1fe2727fa750800000000000000
+      internalID: 6318394640187751555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_167
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ed216c4549dc50800000000000000
+      internalID: 6690454915785810367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_168
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a797c7d3eb68850800000000000000
+      internalID: 6378995093507504736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_169
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f743f35f60e4b0800000000000000
+      internalID: -5413204345744787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_170
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 235
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d20779ccd26fd10800000000000000
+      internalID: 2158963428108021113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_171
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065aab7b5c5a9b40800000000000000
+      internalID: 5447768247244576260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_172
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 256
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68900ecde3f428e20800000000000000
+      internalID: 3351328204129307014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_173
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 246
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77fc8f3a03700c20800000000000000
+      internalID: 3170660625521899390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_174
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689ce3b1d949cfb0800000000000000
+      internalID: -4627085977130854290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_175
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 248
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f43e796a1fefdeb0800000000000000
+      internalID: -4692769389978700560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_176
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da101a82d9b01cb0800000000000000
+      internalID: -4895208481041147178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_177
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19977528b9feab890800000000000000
+      internalID: -7441371983090583151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb28d3a1b4a58d40800000000000000
+      internalID: 5586051995687988216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_179
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 237
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d016617a87db8ee0800000000000000
+      internalID: -1257674681311948588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_180
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 201
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b02149239c8e9e0800000000000000
+      internalID: -1591801249205712111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_181
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8875bb60035668fb0800000000000000
+      internalID: -4645914708640311416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_182
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 228
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346ddf21abc475da0800000000000000
+      internalID: -5956207620107938237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_183
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 234
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed5f589294473d0800000000000000
+      internalID: -3209860191718351179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_184
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 232
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f30f72d9e94c20800000000000000
+      internalID: 3191338901252077448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_185
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 228
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a33c5005b063f0800000000000000
+      internalID: -909528111577325382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_186
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 229
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c004f85a756165c0800000000000000
+      internalID: -4223983399344013120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_187
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ce53e608c4a7e0800000000000000
+      internalID: -1755058022857652010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_188
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 230
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b00fffa6aa5c9d0800000000000000
+      internalID: -2754608220530013406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_189
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d3e06ff7ae6fc30800000000000000
+      internalID: 4392956321856372082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_190
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a621ceb718bb80800000000000000
+      internalID: -8378920998671046790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_191
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613d63d758a22d120800000000000000
+      internalID: 2437057101180621590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_192
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 226
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f82c81fde3e7980800000000000000
+      internalID: -8539318715533848744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_193
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 225
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801ef5f244d91b940800000000000000
+      internalID: 5310198351824675080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_194
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 230
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fdd235c5b879a0800000000000000
+      internalID: -6235033825527858976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_195
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe70e63293f9c4a0800000000000000
+      internalID: -6572454371859071246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_196
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd2878e485e06560800000000000000
+      internalID: 7305090954593578418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_197
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 212
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062caf71c23afce0800000000000000
+      internalID: -1370727329928829433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_198
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d5d9096c32f8700800000000000000
+      internalID: 544693415671848296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_199
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 201
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3924e3a986b8720800000000000000
+      internalID: 2849486200920773619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_200
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 205
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce29cecc462c04180800000000000000
+      internalID: -9133086306116791572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_201
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 205
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f0cc7ec418d6570800000000000000
+      internalID: 8461561442205437851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_202
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b343b2dd220310800000000000000
+      internalID: 1369707619647992109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_203
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 203
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80f7cfbef31dbb0800000000000000
+      internalID: -4913075435698452253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_204
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c08b48043cab60c0800000000000000
+      internalID: -4581378856441904957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_205
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea6a4c8e38666f80800000000000000
+      internalID: -8113683060810421528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_206
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 190
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386023f226b2afed0800000000000000
+      internalID: -2379541752413288829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_207
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 195
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf2d407bc527460800000000000000
+      internalID: 7237949492267514844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_208
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 196
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1001e2b6f322f3ef0800000000000000
+      internalID: -126344608766619647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_209
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 198
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0562c9a3a637fd8a0800000000000000
+      internalID: -6278172455444142512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_210
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 185
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87c9bd326037ae0800000000000000
+      internalID: -1552890695434602301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_211
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 188
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275f00e5e3a19e10800000000000000
+      internalID: 2202721900462823201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_212
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 187
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22784853f231aa0800000000000000
+      internalID: -6191553155801079113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_213
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 187
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50b73732a62b57f0800000000000000
+      internalID: -622861645307727782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_214
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e3d6c03a5b9bc70800000000000000
+      internalID: 8987414243287318104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_215
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 182
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce85df5f61f31a0800000000000000
+      internalID: -6827713264297120704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_216
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb656f4918738d0800000000000000
+      internalID: -2866680161010008497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_217
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 172
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8aab9fc30433970800000000000000
+      internalID: 8733394733033498810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_218
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 147
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e9bb30a862e3f0800000000000000
+      internalID: -873020340350360842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_219
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 141
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95acb457ce48a1350800000000000000
+      internalID: 5988244805657545305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf11ca27bdb2ede0800000000000000
+      internalID: -1305272347590058053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_221
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdcf0436171c2bf0800000000000000
+      internalID: -347877687084200452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_222
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 135
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d6ca921ae3c500800000000000000
+      internalID: 415432956275250535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_223
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89fb4384f298b6c0800000000000000
+      internalID: -4127387479612589682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_224
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0759e6f7dea426210800000000000000
+      internalID: 1324703624306005360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_225
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae92c8ca7c134ad30800000000000000
+      internalID: 4441729866157271530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_226
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500cbaa90fded840800000000000000
+      internalID: 5250879448172724316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_227
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d138457231f6620800000000000000
+      internalID: 2769453355498675508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_228
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c84e7f369c8bf0800000000000000
+      internalID: -320716274004344172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_229
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b939f1f1f60750800000000000000
+      internalID: 6270965552730715470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_230
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e4551caeb9f2b0800000000000000
+      internalID: -5550195419455888318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_231
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36f14647de68f30800000000000000
+      internalID: 4577607155420455914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_232
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 146
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfe1dbf956ac13c0800000000000000
+      internalID: -4387449031558565950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_233
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd297b15381205f0800000000000000
+      internalID: -792043968090526254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_234
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 134
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e79f9291fbeab0800000000000000
+      internalID: -4977619351082901450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_235
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338cea2cca950f60800000000000000
+      internalID: 7999970514777703225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_236
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 101
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acba2c8411708ed0800000000000000
+      internalID: -2413805067205690207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_237
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ae134d0dd01ef0800000000000000
+      internalID: -139368539418091109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_238
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2af07562c9f260800000000000000
+      internalID: 7131945225860820781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_239
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 138
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f14001dc52df320800000000000000
+      internalID: 2593270523102502784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_240
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d3babbc63c7500800000000000000
+      internalID: 395251115940370337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_241
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 73
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eea51c8a1884620800000000000000
+      internalID: 2758597333562879618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_242
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 50
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4cadcdda2ec3200800000000000000
+      internalID: 161252923041039534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_243
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 131
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996250dc2787f0d60800000000000000
+      internalID: 7858632309246076569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_244
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083ae7ce30c8a7840800000000000000
+      internalID: 5222640666370024320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_245
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced0fa4b37373070800000000000000
+      internalID: 8085992383766912710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_246
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 79
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b796ac237aeab870800000000000000
+      internalID: 8699523410610788275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_247
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc35056d73d3f6b0800000000000000
+      internalID: -5263631003946763079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_248
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7193a78101b08e80800000000000000
+      internalID: -8178342303176093315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_249
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed479cafd27139430800000000000000
+      internalID: 3788397197797192926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_250
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1709825e0a451b0a0800000000000000
+      internalID: -6867614906747154319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_251
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 97
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b41d576c397a290800000000000000
+      internalID: -7879166542471935157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_252
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa12741865668a0800000000000000
+      internalID: -6312262714469012845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_253
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1554472e025cd7a0800000000000000
+      internalID: -6351111153757432546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_254
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 88
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb40bbc0366d71a0800000000000000
+      internalID: -6810174701752529925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_255
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf02857b75141f0800000000000000
+      internalID: -1062471592113538271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_256
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0fb80985bae2b60800000000000000
+      internalID: 7723298807857541290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_257
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6e8e0d65930650800000000000000
+      internalID: 6197961807820123095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_258
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 6
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14221f34f08d0c70800000000000000
+      internalID: 8938942621918831643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_259
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 87
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906f5f73f819f040800000000000000
+      internalID: 4681800721721417884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_260
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 62
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1775373d97ac50800000000000000
+      internalID: 6676477833045809946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_261
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abd3e362f186300800000000000000
+      internalID: 245480428805143103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_262
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9d1fc85f84b280800000000000000
+      internalID: -9028433741376283677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_263
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 99
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07f5e255557b44f0800000000000000
+      internalID: -843451495878363378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_264
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f2fa3acb3b17bb0800000000000000
+      internalID: -4939969693467332803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_265
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 10
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311a59d0e06376e0800000000000000
+      internalID: -1841021303828901571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_266
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5674aeea6768140800000000000000
+      internalID: 4721591752971478454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_267
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 99
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dfba7724aa3d590800000000000000
+      internalID: -7650584139520017052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_268
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 83
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e316c746e789c30800000000000000
+      internalID: 4366378808784272938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_269
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2dcd8fe9b31c8f0800000000000000
+      internalID: -522070527832173867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_270
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 13
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93ddefd79b363990800000000000000
+      internalID: -7406667013681196130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_271
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 93
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8fcdba4bcd9f40800000000000000
+      internalID: 5736965022212394332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_272
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb77610082372f90800000000000000
+      internalID: -6978553572226532417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_273
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 86
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554eeec99be72ba0800000000000000
+      internalID: -6113658923297913508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_274
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0d1ef7e195d6d40800000000000000
+      internalID: 5579213500911308996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_275
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d384ae89caf13ed30800000000000000
+      internalID: 4459442882187249725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_276
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d44e097837da0b0800000000000000
+      internalID: -5715785325974631044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_277
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9f617e4865a960800000000000000
+      internalID: 7612605431259569865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_278
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67f61bef23d564c0800000000000000
+      internalID: -4294794466866825364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_279
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 109
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98289b8598e436110800000000000000
+      internalID: 1252931473145168521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_280
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 23
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2266049d2168500800000000000000
+      internalID: 398026341366506233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_281
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4331145c8978c0800000000000000
+      internalID: -4001012501248258220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_282
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039c30f8ce4e1710800000000000000
+      internalID: 1665855537104589574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_283
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8322dde9d977750800000000000000
+      internalID: 6302679509168699579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_284
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 31
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ffc52757b04fb0800000000000000
+      internalID: -4665527629031410935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_285
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e0cabc3d916030800000000000000
+      internalID: 3486240470718277342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_286
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 35
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf891b239450dd9a0800000000000000
+      internalID: -6206798899505424133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_287
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdd632efdd1b5510800000000000000
+      internalID: 1538856545087315399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_288
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9385495a915060800000000000000
+      internalID: 6940498208963665029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_289
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbee65156434170800000000000000
+      internalID: 8161444264890252249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_290
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495d1de8938e1470800000000000000
+      internalID: 8367269850537351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_291
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 39
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a82b234f6f683e0800000000000000
+      internalID: -2051681051537667552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_292
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bac9f966608a320800000000000000
+      internalID: 2569310625249143615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_293
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110579a2fc9746f0800000000000000
+      internalID: -700418650993786600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_294
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf9a952eea22950800000000000000
+      internalID: 6422888305773902541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_295
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a01f0a7115581770800000000000000
+      internalID: 8581702623505092771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_296
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 30
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaeb4c241ed34cf0800000000000000
+      internalID: -269127374488212789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_297
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 41
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38517c0abe7d38b0800000000000000
+      internalID: -5170837459613689798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_298
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3603919d80f10d6f0800000000000000
+      internalID: -661995022360956829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_299
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 3
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9251cfe486d6ee0800000000000000
+      internalID: -1266241231775258119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_300
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 18
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e80ec2d23e91a90800000000000000
+      internalID: -7342587934284935581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_301
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b3714487faa0480800000000000000
+      internalID: -8932133979862648030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_302
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 45
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc166e17ac1fa5240800000000000000
+      internalID: 4781399806203814347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_303
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ece0a9cf600a4a20800000000000000
+      internalID: 3047248577993698537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_304
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 16
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd48c4d54f4f5ef0800000000000000
+      internalID: -117287903947108934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_305
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d1432a7094822b0800000000000000
+      internalID: -5609153038755029669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backdrop_306
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd27fd33a400a40800000000000000
+      internalID: 5332343545459301383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Backdrop_0: 109013552707271033
+      Backdrop_1: -8458602251002848920
+      Backdrop_10: 1916737315987648198
+      Backdrop_100: -495667760175101624
+      Backdrop_101: -5561507797746498762
+      Backdrop_102: -7438900183153506511
+      Backdrop_103: 6779044811634462699
+      Backdrop_104: 1315190617736454844
+      Backdrop_105: -8505154214444931709
+      Backdrop_106: 2490259481572382102
+      Backdrop_107: -9207571372272903903
+      Backdrop_108: 3399189313149177178
+      Backdrop_109: -8089197994641379587
+      Backdrop_11: 8991812078751396158
+      Backdrop_110: -6455804284945063760
+      Backdrop_111: -6788560323765975899
+      Backdrop_112: 3180432081237301093
+      Backdrop_113: -8239030731196425260
+      Backdrop_114: 4531380853571075227
+      Backdrop_115: 2082944974163438141
+      Backdrop_116: -7656384581122402172
+      Backdrop_117: 6537738796877757334
+      Backdrop_118: 2347823613968937664
+      Backdrop_119: -4145251674205490913
+      Backdrop_12: -3875733844741945771
+      Backdrop_120: -5973311443327317075
+      Backdrop_121: 8501138431392369816
+      Backdrop_122: -9006928832245350278
+      Backdrop_123: -7878382783830688743
+      Backdrop_124: -3890442927322223181
+      Backdrop_125: -4182943677015832790
+      Backdrop_126: -6702800625763000910
+      Backdrop_127: 7698899845359791536
+      Backdrop_128: -4672972888468823966
+      Backdrop_129: 7492447239184247096
+      Backdrop_13: -213047741409330547
+      Backdrop_130: -2226682292777873243
+      Backdrop_131: -1281039043185188741
+      Backdrop_132: -5429351730343612793
+      Backdrop_133: -6747365217499467100
+      Backdrop_134: 5759089316410043420
+      Backdrop_135: -6479870330608810972
+      Backdrop_136: -7529487824408757823
+      Backdrop_137: -2533848985484609744
+      Backdrop_138: 4809079457277277855
+      Backdrop_139: 1284304697289333057
+      Backdrop_14: 2107103118745646978
+      Backdrop_140: -6189246291534653708
+      Backdrop_141: -767391245413558115
+      Backdrop_142: 8112503522702709507
+      Backdrop_143: 3896248229024878781
+      Backdrop_144: 8865625224732301856
+      Backdrop_145: -6810479000176288365
+      Backdrop_146: -8070526760077897973
+      Backdrop_147: -4798038354940703541
+      Backdrop_148: 572214946328778545
+      Backdrop_149: 1365287116788154096
+      Backdrop_15: 7472071842337589565
+      Backdrop_150: 36384090436377748
+      Backdrop_151: -7100419448275945532
+      Backdrop_152: 355592184573173311
+      Backdrop_153: 2980182617374163536
+      Backdrop_154: -6520147378920953623
+      Backdrop_155: -2874185345179665510
+      Backdrop_156: -3626817965116149380
+      Backdrop_157: -2006253960680972660
+      Backdrop_158: 6914777216530618153
+      Backdrop_159: -4169830959277973533
+      Backdrop_16: -3024304149516079712
+      Backdrop_160: -971940088129308544
+      Backdrop_161: -5593084450193737174
+      Backdrop_162: -634938568732039981
+      Backdrop_163: 2211969729992712183
+      Backdrop_164: 4809010039898936434
+      Backdrop_165: 5504937570428547618
+      Backdrop_166: 6318394640187751555
+      Backdrop_167: 6690454915785810367
+      Backdrop_168: 6378995093507504736
+      Backdrop_169: -5413204345744787153
+      Backdrop_17: -3572729925657049204
+      Backdrop_170: 2158963428108021113
+      Backdrop_171: 5447768247244576260
+      Backdrop_172: 3351328204129307014
+      Backdrop_173: 3170660625521899390
+      Backdrop_174: -4627085977130854290
+      Backdrop_175: -4692769389978700560
+      Backdrop_176: -4895208481041147178
+      Backdrop_177: -7441371983090583151
+      Backdrop_178: 5586051995687988216
+      Backdrop_179: -1257674681311948588
+      Backdrop_18: 4412410475641903121
+      Backdrop_180: -1591801249205712111
+      Backdrop_181: -4645914708640311416
+      Backdrop_182: -5956207620107938237
+      Backdrop_183: -3209860191718351179
+      Backdrop_184: 3191338901252077448
+      Backdrop_185: -909528111577325382
+      Backdrop_186: -4223983399344013120
+      Backdrop_187: -1755058022857652010
+      Backdrop_188: -2754608220530013406
+      Backdrop_189: 4392956321856372082
+      Backdrop_19: -6958561196344318733
+      Backdrop_190: -8378920998671046790
+      Backdrop_191: 2437057101180621590
+      Backdrop_192: -8539318715533848744
+      Backdrop_193: 5310198351824675080
+      Backdrop_194: -6235033825527858976
+      Backdrop_195: -6572454371859071246
+      Backdrop_196: 7305090954593578418
+      Backdrop_197: -1370727329928829433
+      Backdrop_198: 544693415671848296
+      Backdrop_199: 2849486200920773619
+      Backdrop_2: -5050149929292006811
+      Backdrop_20: -6525699971582583191
+      Backdrop_200: -9133086306116791572
+      Backdrop_201: 8461561442205437851
+      Backdrop_202: 1369707619647992109
+      Backdrop_203: -4913075435698452253
+      Backdrop_204: -4581378856441904957
+      Backdrop_205: -8113683060810421528
+      Backdrop_206: -2379541752413288829
+      Backdrop_207: 7237949492267514844
+      Backdrop_208: -126344608766619647
+      Backdrop_209: -6278172455444142512
+      Backdrop_21: -350830457320684974
+      Backdrop_210: -1552890695434602301
+      Backdrop_211: 2202721900462823201
+      Backdrop_212: -6191553155801079113
+      Backdrop_213: -622861645307727782
+      Backdrop_214: 8987414243287318104
+      Backdrop_215: -6827713264297120704
+      Backdrop_216: -2866680161010008497
+      Backdrop_217: 8733394733033498810
+      Backdrop_218: -873020340350360842
+      Backdrop_219: 5988244805657545305
+      Backdrop_22: 6938315543025377630
+      Backdrop_220: -1305272347590058053
+      Backdrop_221: -347877687084200452
+      Backdrop_222: 415432956275250535
+      Backdrop_223: -4127387479612589682
+      Backdrop_224: 1324703624306005360
+      Backdrop_225: 4441729866157271530
+      Backdrop_226: 5250879448172724316
+      Backdrop_227: 2769453355498675508
+      Backdrop_228: -320716274004344172
+      Backdrop_229: 6270965552730715470
+      Backdrop_23: 3433206843324774764
+      Backdrop_230: -5550195419455888318
+      Backdrop_231: 4577607155420455914
+      Backdrop_232: -4387449031558565950
+      Backdrop_233: -792043968090526254
+      Backdrop_234: -4977619351082901450
+      Backdrop_235: 7999970514777703225
+      Backdrop_236: -2413805067205690207
+      Backdrop_237: -139368539418091109
+      Backdrop_238: 7131945225860820781
+      Backdrop_239: 2593270523102502784
+      Backdrop_24: -3492385177380543125
+      Backdrop_240: 395251115940370337
+      Backdrop_241: 2758597333562879618
+      Backdrop_242: 161252923041039534
+      Backdrop_243: 7858632309246076569
+      Backdrop_244: 5222640666370024320
+      Backdrop_245: 8085992383766912710
+      Backdrop_246: 8699523410610788275
+      Backdrop_247: -5263631003946763079
+      Backdrop_248: -8178342303176093315
+      Backdrop_249: 3788397197797192926
+      Backdrop_25: 6934546050459774118
+      Backdrop_250: -6867614906747154319
+      Backdrop_251: -7879166542471935157
+      Backdrop_252: -6312262714469012845
+      Backdrop_253: -6351111153757432546
+      Backdrop_254: -6810174701752529925
+      Backdrop_255: -1062471592113538271
+      Backdrop_256: 7723298807857541290
+      Backdrop_257: 6197961807820123095
+      Backdrop_258: 8938942621918831643
+      Backdrop_259: 4681800721721417884
+      Backdrop_26: -6076106701842204255
+      Backdrop_260: 6676477833045809946
+      Backdrop_261: 245480428805143103
+      Backdrop_262: -9028433741376283677
+      Backdrop_263: -843451495878363378
+      Backdrop_264: -4939969693467332803
+      Backdrop_265: -1841021303828901571
+      Backdrop_266: 4721591752971478454
+      Backdrop_267: -7650584139520017052
+      Backdrop_268: 4366378808784272938
+      Backdrop_269: -522070527832173867
+      Backdrop_27: -1739063714022135181
+      Backdrop_270: -7406667013681196130
+      Backdrop_271: 5736965022212394332
+      Backdrop_272: -6978553572226532417
+      Backdrop_273: -6113658923297913508
+      Backdrop_274: 5579213500911308996
+      Backdrop_275: 4459442882187249725
+      Backdrop_276: -5715785325974631044
+      Backdrop_277: 7612605431259569865
+      Backdrop_278: -4294794466866825364
+      Backdrop_279: 1252931473145168521
+      Backdrop_28: -7447010013426327591
+      Backdrop_280: 398026341366506233
+      Backdrop_281: -4001012501248258220
+      Backdrop_282: 1665855537104589574
+      Backdrop_283: 6302679509168699579
+      Backdrop_284: -4665527629031410935
+      Backdrop_285: 3486240470718277342
+      Backdrop_286: -6206798899505424133
+      Backdrop_287: 1538856545087315399
+      Backdrop_288: 6940498208963665029
+      Backdrop_289: 8161444264890252249
+      Backdrop_29: 336093853700295493
+      Backdrop_290: 8367269850537351498
+      Backdrop_291: -2051681051537667552
+      Backdrop_292: 2569310625249143615
+      Backdrop_293: -700418650993786600
+      Backdrop_294: 6422888305773902541
+      Backdrop_295: 8581702623505092771
+      Backdrop_296: -269127374488212789
+      Backdrop_297: -5170837459613689798
+      Backdrop_298: -661995022360956829
+      Backdrop_299: -1266241231775258119
+      Backdrop_3: 4692383030383928659
+      Backdrop_30: -3160028294288303206
+      Backdrop_300: -7342587934284935581
+      Backdrop_301: -8932133979862648030
+      Backdrop_302: 4781399806203814347
+      Backdrop_303: 3047248577993698537
+      Backdrop_304: -117287903947108934
+      Backdrop_305: -5609153038755029669
+      Backdrop_306: 5332343545459301383
+      Backdrop_31: -1347374153446286153
+      Backdrop_32: -4668243918957938964
+      Backdrop_33: -7735435480825825913
+      Backdrop_34: 2327839438897191595
+      Backdrop_35: 5792680381382219101
+      Backdrop_36: -7049214503165196941
+      Backdrop_37: -2328682373649595313
+      Backdrop_38: -5060548223171349138
+      Backdrop_39: 8459920811092318316
+      Backdrop_4: 1892394899378414040
+      Backdrop_40: 2994373572369785559
+      Backdrop_41: -5346559799502693483
+      Backdrop_42: -5638020802216335878
+      Backdrop_43: 2438926741053190643
+      Backdrop_44: 7925376717207954091
+      Backdrop_45: -9146425365331738098
+      Backdrop_46: -7681601623303331413
+      Backdrop_47: -9093820194493197951
+      Backdrop_48: -5753999999033256423
+      Backdrop_49: -4550323976041253359
+      Backdrop_5: 3643742213060499117
+      Backdrop_50: -8685653905558055781
+      Backdrop_51: 2711462331185563152
+      Backdrop_52: -406632984485474665
+      Backdrop_53: 5076237179363889105
+      Backdrop_54: -8343456930639890012
+      Backdrop_55: -7924335497237039699
+      Backdrop_56: 3493217861883862544
+      Backdrop_57: -1618219931018408547
+      Backdrop_58: 3034806471097228966
+      Backdrop_59: -2309411315570249599
+      Backdrop_6: -5094014404152002270
+      Backdrop_60: -4264942035218237960
+      Backdrop_61: -5419364213779675790
+      Backdrop_62: -350508901656819614
+      Backdrop_63: 3212056903276440397
+      Backdrop_64: -4464214374864577757
+      Backdrop_65: -2526275274448266423
+      Backdrop_66: -138537727732279875
+      Backdrop_67: 2689093870036674068
+      Backdrop_68: -8483779959859551584
+      Backdrop_69: 835600036377467418
+      Backdrop_7: -3900774752527874631
+      Backdrop_70: -8101135842239949621
+      Backdrop_71: 3118122664242479960
+      Backdrop_72: 9001742128257503010
+      Backdrop_73: 2063318535460476077
+      Backdrop_74: 6695433562385485964
+      Backdrop_75: -416935460291026348
+      Backdrop_76: -1158382848614193731
+      Backdrop_77: -2139099702672468983
+      Backdrop_78: -4228311018678272066
+      Backdrop_79: -3798677726406080035
+      Backdrop_8: 4864875532277162091
+      Backdrop_80: -8086152762603091240
+      Backdrop_81: -8886676202292130484
+      Backdrop_82: -6806686048476154619
+      Backdrop_83: -8472063432179881733
+      Backdrop_84: -2296822357247761057
+      Backdrop_85: 8695260424497202139
+      Backdrop_86: -8442603894163910271
+      Backdrop_87: 343882950457342819
+      Backdrop_88: -4377163939153504156
+      Backdrop_89: 8508745178023539871
+      Backdrop_9: 1639213864526133627
+      Backdrop_90: -972172413571539548
+      Backdrop_91: 5655535590259859922
+      Backdrop_92: -4245552730351719561
+      Backdrop_93: -8817548217346249502
+      Backdrop_94: 3094233413311450194
+      Backdrop_95: 6133973178012080991
+      Backdrop_96: -8510499548903957832
+      Backdrop_97: 5681405138317222663
+      Backdrop_98: 655157750376884515
+      Backdrop_99: -7572098883415591516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -25,5 +25,5 @@ AssetOrigin:
   productId: 247612
   packageName: 2D Endless Runner
   packageVersion: 1.1
-  assetPath: Assets/UnityTechnologies/EndlessRunner/Audio/SFX/ShieldBreak.wav
+  assetPath: Assets/Audio/SFX/ShieldBreak.wav
   uploadId: 564418

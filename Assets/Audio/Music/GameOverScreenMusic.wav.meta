@@ -25,5 +25,5 @@ AssetOrigin:
   productId: 247612
   packageName: 2D Endless Runner
   packageVersion: 1.1
-  assetPath: Assets/UnityTechnologies/EndlessRunner/Audio/Music/GameOverScreenMusic.wav
+  assetPath: Assets/Audio/Music/GameOverScreenMusic.wav
   uploadId: 564418

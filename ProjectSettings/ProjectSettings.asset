@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 4baa486fc79892445a66a7f989697064
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -721,12 +721,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: a6d8f132-02cf-4c05-86c7-5bda9d991a5e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Endless_Runner_AU
+  projectName: 
   organizationId: leandrob2612
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

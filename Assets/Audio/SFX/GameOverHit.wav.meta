@@ -25,5 +25,5 @@ AssetOrigin:
   productId: 247612
   packageName: 2D Endless Runner
   packageVersion: 1.1
-  assetPath: Assets/UnityTechnologies/EndlessRunner/Audio/SFX/GameOverHit.wav
+  assetPath: Assets/Audio/SFX/GameOverHit.wav
   uploadId: 564418
