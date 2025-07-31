@@ -2,40 +2,49 @@ using UnityEngine;
 
 public class RepetirGround : MonoBehaviour
 {
+    private GameController _gameController;
 
-    private GameController _gamecontroller;
+    [SerializeField] private bool _spawnedNextGround = false;
 
-    [SerializeField] bool _chaoInstanciado = false;
-    void Start()
+    private void Start()
     {
-        _gamecontroller = GameObject.FindWithTag("GameController").GetComponent<GameController>();
+        _gameController = GameObject.FindWithTag("GameController").GetComponent<GameController>();
     }
 
-    
-    void Update()
+    private void Update()
     {
-        if(_chaoInstanciado == false) 
+        MoveGround();
+
+        CheckSpawnNextGround();
+
+        CheckDestroyGround();
+    }
+
+    private void MoveGround()
+    {
+        transform.Translate(Vector3.left * _gameController._chaoVelocidade * Time.deltaTime);
+    }
+
+    private void CheckSpawnNextGround()
+    {
+        if (!_spawnedNextGround && transform.position.x <= 0)
         {
-            if(transform.position.x <= 0) 
-            {
-                _chaoInstanciado = true;
-                GameObject ObjetoTemporarioChao = Instantiate(_gamecontroller._chaoPrefab);
-                ObjetoTemporarioChao.transform.position = new Vector3(transform.position.x + _gamecontroller._chaoTamanho, transform.position.y, transform.position.z);
-            }
+            _spawnedNextGround = true;
+            SpawnNextGround();
         }
- 
     }
 
-    void FixedUpdate()
+    private void SpawnNextGround()
     {
-
-        MoveChao();
-
+        GameObject newGround = Instantiate(_gameController._chaoPrefab);
+        newGround.transform.position = new Vector3(transform.position.x + _gameController._chaoTamanho, transform.position.y, transform.position.z);
     }
-    void MoveChao()
+
+    private void CheckDestroyGround()
     {
-        transform.Translate(Vector3.left * _gamecontroller._chaoVelocidade * Time.deltaTime);
-
+        if (transform.position.x <= _gameController._chaoDestruido)
+        {
+            Destroy(gameObject);
+        }
     }
-
 }
