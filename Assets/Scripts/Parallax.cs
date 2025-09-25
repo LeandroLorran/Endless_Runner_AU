@@ -4,14 +4,19 @@ using UnityEngine;
 
 public class Parallax : MonoBehaviour
 {
-    Material _Mat;
-    float _Distance;
+    Material            _Mat;
+    float               _Distance;
 
     [Range(0f, 0.5f)]
-    public float _Speed = 0.2f;
+    public float        _Speed = 0.2f;
+
+    public string       _sortingLayer;
+    public int          _ordenInLayer;
     void Start()
     {
         _Mat = GetComponent<Renderer>().material;
+
+
     }
 
     // Update is called once per frame
